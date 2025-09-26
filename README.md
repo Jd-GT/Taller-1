@@ -10,4 +10,4 @@
 
 ### 5.   **Aplicación de patrón de Diseño Django**: * Escoja alguno de los patrones de diseño de Django vistos en clase (puede ser más de uno) y aplíquelo en alguna de las funcionalidades de su proyecto original. Indique claramente el proceso de decisión detrás de la elección del patrón y cómo mejora la implementación usando el patrón elegido. Documente bien los cambios en el repositorio. Deben implementar por lo menos dos patrones, para dos partes diferentes de la arquitectura (ejemplo: Vistas CRUD para controladores y Normalización para Modelos).*
 
-## **BONO**: : *Implementen una nueva funcionalidad desde cero, aplicando patrones de diseño de su elección y justificando sus decisiones a la hora de incluir la funcionalidad y de aplicar los patrones escogidos.*
+##   **BONO**: *Implementen una nueva funcionalidad desde cero, aplicando patrones de diseño de su elección y justificando sus decisiones a la hora de incluir la funcionalidad y de aplicar los patrones escogidos.*
